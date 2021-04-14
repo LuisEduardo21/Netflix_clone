@@ -76,6 +76,12 @@ header nav a:hover{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.filmes {
+    margin-top:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
 .botao{
     background-color:rgba(0,0,0,.50) ;
     border: none;
